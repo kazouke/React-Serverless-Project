@@ -1,0 +1,9 @@
+https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
+
+react-native run-android
+
+username: '',
+password: '',
+phone_number: '',
+email: '',
+authCode
